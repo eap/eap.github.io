@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Infrastructure Team Lead at JCSDA | Software Engineer | Tech Optimist & Skeptic
+subtitle: Infrastructure Team Lead at JCSDA | Software Engineer
 
 profile:
   align: right
@@ -28,4 +28,4 @@ I'm a software engineer specializing in technical and cloud infrastructure, deve
 
 Before JCSDA, I worked at Verily Life Sciences, developing data pipelines, self-serve analytics tools, and cloud infrastructure. I’ve also worked at Google Fiber and briefly pursued graduate research in oligosaccharide analysis using mass spectrometry.
 
-Beyond technology, I’m passionate about DIY projects, mindful living, and using modern tools intentionally. I strive to make the most of technology while mitigating its downsides—optimizing workflows, automating tasks, and ensuring digital convenience enhances rather than disrupts well-being.
+Beyond technology, I’m passionate about DIY projects, mindful living, and using modern technology intentionally. I strive to make the most of technology while mitigating its downsides.

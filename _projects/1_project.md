@@ -8,8 +8,6 @@ category: work
 related_publications: true
 ---
 
-## I bought a truck!
-
 In the first week of January 2025, I flew to Los Angeles and purchased a
 1990 Ford F-150. My 2016 Chevy Colorado had been good to us, but mechanical
 issues had been increasing over time, along with repair costs. My concern was
@@ -36,12 +34,13 @@ mechnically inclined but until this book EFI was pure magic.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/truck_1.jpg" title="Old Smokey" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/truck/truck_1.jpg" title="Old Smokey" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Somehow she drove all 1000 miles from LA to Lafayette CO.
 </div>
+
 
 ### Fluid Swap Log
 
@@ -52,11 +51,11 @@ replace and refresh every possible fluid.
 - [x] Oil Change - Dec 2024; receipt shared by seller.
 - [x] Engine Coolant - Jan 2024; system drained and refilled.
 - [x] Power Steering Fluid - Jan 2024.
-- [x] Differential Fluid Front & Rear - Feb 2024; 80w90 gear old.
+- [x] Differential Fluid Front & Rear - Feb 2024; 75w90 gear oil.
 - [x] Transmission fluid for M5OD - Feb 2024; MERCON V ATF as specified.
-- [ ] Brake fluid
-- [ ] Transfer case
-- [ ] Clutch fluid
+- [ ] Brake Fluid
+- [ ] Transfer Case
+- [ ] Clutch Fluid
 
 
 ### Computer Repair
