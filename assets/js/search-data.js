@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -387,18 +380,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-1990-f-150-restoration",
+            },},{id: "projects-1990-f-150-restoration",
           title: '1990 F-150 Restoration',
           description: "I bought a truck!",
           section: "Projects",handler: () => {
