@@ -375,12 +375,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "projects-1990-f-150-restoration",
+    },{id: "projects-1990-f-150-restoration",
           title: '1990 F-150 Restoration',
           description: "I bought a truck!",
           section: "Projects",handler: () => {
