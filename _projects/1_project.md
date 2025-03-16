@@ -5,6 +5,7 @@ description: I bought a truck!
 img: assets/img/truck/truck_1.jpg
 importance: 1
 category: work
+giscus_comments: true
 related_publications: true
 ---
 
@@ -46,11 +47,11 @@ mechnically inclined but until this book EFI was pure magic.
 
 It is difficult to know how recently any of the fluids have been replaced. While the seller claims
 it was oil changed regularly that is impossible to verify. During the first half of 2025 I intend to
-replace and refresh every possible fluid.
+replace and/or flush all fluids.
 
-- [x] Oil Change - Dec 2024; receipt shared by seller.
+- [x] Oil Change - Dec 2024; done by seller.
+- [x] Power Steering Fluid - Dec 2024; done by seller.
 - [x] Engine Coolant - Jan 2024; system drained and refilled.
-- [x] Power Steering Fluid - Jan 2024.
 - [x] Differential Fluid Front & Rear - Feb 2024; 75w90 gear oil.
 - [x] Transmission fluid for M5OD - Feb 2024; MERCON V ATF as specified.
 - [ ] Brake Fluid
@@ -61,14 +62,14 @@ replace and refresh every possible fluid.
 ### Computer Repair
 
 A common problem on these old trucks is leaking electrolytic capacitors on the EEC-IV control computer.
-The electrolyte can leak and is very corrosive; capable of destroying traces on the board. Luckily the
-board is very simple in construction with a single layer on each side so a common repair is to pull and
-replace these capacitors.
+The electrolyte will leak from the base of the capacitor and is very corrosive; capable of destroying
+traces on the board. Luckily the board is very simple in construction with a single layer on each side
+making it straightforward to repair at home.
 
-I sourced some aluminum-polymer capacitors from Digikey and did the repair at home. The project took
+I sourced some aluminum-polymer capacitors from Digikey for the repair. The project took
 a little longer than expected due to my first Digikey order being lost in the mail, but even with
-the cost of conformal coating and other supplies it was $84.26 which is about 1/5 the cost of a
-reman ECU.
+the cost of conformal coating, solder wick, a solder sucker, and other supplies it was $84.26
+which is about 1/5 the cost of a reman ECU.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
