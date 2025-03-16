@@ -98,15 +98,7 @@
     {
       "name": "Software Engineering",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Go (language)",
-        "JavaScript",
-        "Data Pipelines",
-        "Airflow",
-        "SQL",
-        "API design"
-      ]
+      "keywords": ["Python", "Go (language)", "JavaScript", "Data Pipelines", "Airflow", "SQL", "API design"]
     },
     {
       "name": "Cloud Infrastructure",
@@ -128,13 +120,7 @@
     {
       "name": "Management",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Technical Leadership",
-        "Agile Planning",
-        "Annual Planning",
-        "Resource Management",
-        "Project Roadmapping"
-      ]
+      "keywords": ["Technical Leadership", "Agile Planning", "Annual Planning", "Resource Management", "Project Roadmapping"]
     }
   ],
   "languages": [

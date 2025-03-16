@@ -42,7 +42,6 @@ mechnically inclined but until this book EFI was pure magic.
     Somehow she drove all 1000 miles from LA to Lafayette CO.
 </div>
 
-
 ### Fluid Swap Log
 
 It is difficult to know how recently any of the fluids have been replaced. While the seller claims
@@ -57,7 +56,6 @@ replace and/or flush all fluids.
 - [ ] Brake Fluid
 - [ ] Transfer Case
 - [ ] Clutch Fluid
-
 
 ### Computer Repair
 
