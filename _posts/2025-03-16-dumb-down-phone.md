@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dumbing Down my Smart Phone
-date: 2021-07-04 17:39:00
+date: 2025-03-16 17:39:00
 tags: smartphone
 description: How I made my smart phone a little dumber.
 ---
