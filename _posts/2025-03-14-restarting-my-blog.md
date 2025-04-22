@@ -6,14 +6,14 @@ description: Why shouldn't I write a blog?
 ---
 
 Over the years I've had a variety of outlets for my thoughts and projects. Social
-media has been a primary outlet for casual authorship; and during my 2014 Google
+media has been a primary outlet for casual authorship. During my 2014 Google
 Summer of Code internship with Biopython, I was required to maintain a blog
 documenting my progress. I enjoyed the process of writing a blog but ultimately
 my blog languished after the internship wrapped up.
 
-When I started a first professional role at Google FiberI effectively stopped
+When I started my first professional role at Google Fiber, I effectively stopped
 writing in my leisure time; most of my creative and technical energy went into
-that jobs. As my family grew, my time for side-projects shrank commensurately.
+my career. As my family grew, my time for side-projects shrank commensurately.
 
 It's 2025 now and circumstances have shifted enough that I'm ready, and
 motivated, to restart the habit. One big factor here is my decision to move away
