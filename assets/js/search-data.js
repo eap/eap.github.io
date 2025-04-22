@@ -52,6 +52,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/dumb-down-phone/";
         
       },
+    },{id: "post-blog-reboot",
+      
+        title: "Blog Reboot",
+      
+      description: "Why shouldn&#39;t I write a blog?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/restarting-my-blog/";
+        
+      },
     },{id: "projects-1990-f-150-restoration",
           title: '1990 F-150 Restoration',
           description: "I bought a truck!",
