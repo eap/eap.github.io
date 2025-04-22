@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-dumbing-down-my-smart-phone",
+        },{id: "post-android-wallet-app",
+      
+        title: "Android Wallet App",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/android-wallet-app/";
+        
+      },
+    },{id: "post-dumbing-down-my-smart-phone",
       
         title: "Dumbing Down my Smart Phone",
       
