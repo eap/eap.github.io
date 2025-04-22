@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-android-wallet-app",
+        },{id: "post-writing-my-first-android-app-with-ai-help",
       
-        title: "Android Wallet App",
+        title: "Writing My First Android App (with AI help)",
       
-      description: "",
+      description: "Self-directed applications of &quot;embrace, extend, extinguish&quot;.",
       section: "Posts",
       handler: () => {
         
