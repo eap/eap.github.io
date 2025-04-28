@@ -63,6 +63,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/restarting-my-blog/";
         
       },
+    },{id: "post-how-i-wrote-a-successful-google-summer-of-code-application-for-biopython",
+      
+        title: "How I wrote a successful Google Summer of Code application for Biopython",
+      
+      description: "My thoughts on writing a quality Google Summer of Code submission.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2014/gsoc-proposal/";
+        
+      },
     },{id: "projects-1990-f-150-restoration",
           title: '1990 F-150 Restoration',
           description: "I bought a truck!",
