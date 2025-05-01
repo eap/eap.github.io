@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-writing-my-first-android-app-with-ai-help",
+        },{id: "post-conway-s-law-r2d2-and-the-google-play-console",
+      
+        title: "Conway’s Law, R2D2, and the Google Play Console.",
+      
+      description: "God forbid an engineer complains about someone else&#39;s product.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/conways-law/";
+        
+      },
+    },{id: "post-writing-my-first-android-app-with-ai-help",
       
         title: "Writing My First Android App (with AI help)",
       
