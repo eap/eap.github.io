@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-conway-s-law-r2d2-and-the-google-play-console",
+        },{id: "post-don-39-t-implement-a-hilbert-curve-as-a-graph",
+      
+        title: "Don&#39;t Implement a Hilbert Curve as a Graph",
+      
+      description: "I made a mixed-order hilbert curve the worst way possible.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/dont-graph-hilbert/";
+        
+      },
+    },{id: "post-conway-s-law-r2d2-and-the-google-play-console",
       
         title: "Conway’s Law, R2D2, and the Google Play Console.",
       
