@@ -398,7 +398,7 @@ function findClosestPoint(mouseX, mouseY) {
   }
   
   // Only highlight if mouse is within 15 pixels of a point
-  return minDistance <= 15 ? closestPoint : null;
+  return minDistance <= 30 ? closestPoint : null;
 }
 
 document.addEventListener('DOMContentLoaded', () => {

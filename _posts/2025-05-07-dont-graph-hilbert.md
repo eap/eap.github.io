@@ -25,19 +25,20 @@ self renders which felt like a great idea until you have to implement delete.
 Hindsight being 20:20; it should have been a linked list, because why on earth
 would a representation of A FANCY LINE need to be anything other than a linked list?
 
-Anyway... if you want to see the worst Hilbert curve, here it is. Click the little blue
-dots to see "mixed order" curves. Once you see it, you'll understand why you haven't
-seen it anywhere else.
+Anyway... if you want to see the worst Hilbert curve, here it is. Mouse over the curve
+and click one of the orange dots to expand partial subcurves. Once you see it, you'll
+understand why you haven't seen mixed order curves anywhere else.
 
 <div class="container" style="max-width:700px;margin:40px auto;padding:24px;background:#fafafa;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.08);text-align:center;">
 <h1 style="margin-bottom:16px;font-size:2rem;color:#222;">Hilbert Curve Visualizer</h1>
 <label for="order-select" style="font-size:1.1rem;margin-right:8px;">Order:</label>
 <select id="order-select" style="font-size:1rem;padding:4px 8px;margin-bottom:20px;">
 <option value="2">2</option>
-<option value="3">3</option>
+<option value="3" selected>3</option>
 <option value="4">4</option>
 <option value="5">5</option>
 <option value="6">6</option>
+<option value="7">7</option>
 </select>
 <canvas id="hilbert-canvas" width="600" height="600" style="display:block;margin:24px auto 0 auto;background:#fff;border:1px solid #ddd;border-radius:8px;"></canvas>
 </div>
