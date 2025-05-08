@@ -41,11 +41,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/dont-graph-hilbert/";
         
       },
-    },{id: "post-conway-s-law-r2d2-and-the-google-play-console",
+    },{id: "post-conway-s-law-and-publishing-android-apps",
       
-        title: "Conway’s Law, R2D2, and the Google Play Console.",
+        title: "Conway’s Law and Publishing Android Apps",
       
-      description: "God forbid an engineer complains about someone else&#39;s product.",
+      description: "By referencing an old computer scientists my vague gripes sound smart.",
       section: "Posts",
       handler: () => {
         
