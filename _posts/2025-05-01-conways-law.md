@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Conway’s Law, R2D2, and the Google Play Console.
+title: Conway’s Law and Publishing Android Apps
 date: 2025-05-01 00:30:00
 tags: Android, JCSDA
-description: God forbid an engineer complains about someone else's product.
+description: By referencing an old computer scientists my vague gripes sound smart.
 ---
 
 At JCSDA, we recently launched a new API for our R2D2 metadata tracking system

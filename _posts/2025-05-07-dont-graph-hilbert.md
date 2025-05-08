@@ -41,4 +41,4 @@ seen it anywhere else.
 </select>
 <canvas id="hilbert-canvas" width="600" height="600" style="display:block;margin:24px auto 0 auto;background:#fff;border:1px solid #ddd;border-radius:8px;"></canvas>
 </div>
-<script src="assets/js/hilbert-graph.js"></script>
+<script src="https://eap.github.io/assets/js/hilbert-graph.js"></script>
