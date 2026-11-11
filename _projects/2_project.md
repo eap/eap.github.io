@@ -15,8 +15,7 @@ that turned out to be an unmaintained rock scramble. We ended up exhausted and i
 technical terrain, which was a dangerous place to be, and wisely worked our way back out.
 
 When I looked into it afterwards I found that the trail was an OpenStreetMap way. It was
-unofficial, tagged as a "user path", with an approximate SAC rating of T5, which means
-demanding alpine terrain. The app had taken the trail from OSM and hidden the
+unofficial, tagged as a "user path", with an approximate SAC rating of T5. The app had taken the trail from OSM and hidden the
 annotations. My guess is that they don't want users to know the data is lifted from an
 open source project.
 
