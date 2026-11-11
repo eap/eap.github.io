@@ -8,9 +8,9 @@ description: My thoughts on writing a quality Google Summer of Code submission.
 
 There are many resources speaking generally about qualities of a successful GSoC proposal and my first suggestion to others is to read those resources. The reason I have chosen to write this blog post is simply to give my own limited insights into the process. It is worth saying that every open source project is going to have their own priorities and set of requirements so my observations, and those I've linked to, may not be generally applicable.
 
- * [Drupal: How to write a GSoC proposal](https://www.drupal.org/community/contributor-guide/reference-information/google-summer-of-code/how-to-write-a-gsoc-proposal)
- * [Gervase Markham: How Not To Apply For Summer Of Code](http://blog.gerv.net/2006/05/how_not_to_apply_for_summer_of/)
- * [5 Advices to get Your Proposal Accepted]( http://www.di.ens.fr/~baghdadi/TXT_blog/5_advices_to_get_your_proposal_accepted.lyx.html)
+- [Drupal: How to write a GSoC proposal](https://www.drupal.org/community/contributor-guide/reference-information/google-summer-of-code/how-to-write-a-gsoc-proposal)
+- [Gervase Markham: How Not To Apply For Summer Of Code](http://blog.gerv.net/2006/05/how_not_to_apply_for_summer_of/)
+- [5 Advices to get Your Proposal Accepted](http://www.di.ens.fr/~baghdadi/TXT_blog/5_advices_to_get_your_proposal_accepted.lyx.html)
 
 With that out of the way, I can get to my own experience. I have used Biopython for about a year after deciding that manually parsing uniprot data wasn’t worth the trouble. When I heard that Biopython would be accepting a GSoC student I immediately decided that I would field a competitive application. The project idea posted by organizers regarding implementation of a lazy loading parser was right up my alley since it targeted a module I was familiar with and would implement functionality that should be helpful to many.
 

@@ -29,12 +29,12 @@ is a perfect case study in Conway’s Law. As a reminder, since (for me) Conway�
 law exists in that dusty basket of poorly remembered aphorisms;
 
 > Organizations which design systems are constrained to produce designs which are
-  copies of the communication structures of these organizations. -Melvin E. Conway
+> copies of the communication structures of these organizations. -Melvin E. Conway
 
 In other words, if five teams each own a part of the system and don’t talk to each
 other much, you’re going to feel all five of them when you try to use the product.
 
-__Example One: Testing__ - In order to release a new application in Google Play you
+**Example One: Testing** - In order to release a new application in Google Play you
 have to go through an internal testing process. This is conceptually simple: you
 tag a release and you authorize a few people to try out your app before unleashing
 it on the world. But the console experience makes this feel like configuring a
@@ -55,8 +55,7 @@ I’m pretty sure the “Testing” section has passed through at least numerous
 reorganizations and product managers and I doubt (hope?) it got to the current state
 under a single unified leadership vision.
 
-
-__Example Two: Monetization__ Setting a price for your should be a one-screen task. It’s
+**Example Two: Monetization** Setting a price for your should be a one-screen task. It’s
 not. As with many things it requires hopping between Google Play Console and Google
 Payments. Want to set a support email? That’s in Payments. Want to set a support address?
 Also in Payments. Primary address? Play Console of course. Want to select a payments
@@ -65,7 +64,6 @@ feature separation, it’s an org chart separation. It’s the software equivale
 being transferred between departments when you call customer support. Every team
 owns a slice of the flow, and as a result, no one seems to own the experience
 end-to-end.
-
 
 ### An Arm Tied Behind Their Back
 
