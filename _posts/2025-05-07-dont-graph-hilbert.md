@@ -14,7 +14,7 @@ the target point in an index.
 
 In my mind, a graph seemed like an obvious data structure because... hierarchy!
 I borrowed the four-type production rules from Wikipedia and allowed each curve
-element to have four child nodes. I figured I'd bang it together in a couple 
+element to have four child nodes. I figured I'd bang it together in a couple
 hours. I sort of did—but I hate it all the way.
 
 This approach relies on a rat’s nest of highly specific graph traversals with
