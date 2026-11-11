@@ -20,16 +20,13 @@ see, on a clean, fast map with no ads.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/evantopo/flatirons-3d.webp" title="The Flatirons in 3D" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/evantopo/android-recording.webp" title="Android app" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    A route drawn from the Chautauqua Trailhead, the Flatirons in 3D with aerial imagery, and the Android app recording a hike.
+    A route drawn from the Chautauqua Trailhead, and the Flatirons in 3D with aerial imagery.
 </div>
 
 After a somewhat dangerous hike with my brother where I ended up on an unofficial
 unmaintained trail, I thought I could do better, and build a map that shows all the
 data and is genuinely cheap, or free for casual users. EvanTopo is that map.
 
-EvanTopo is opening to a few people at a time. More to come.
+The map is at [evantopo.com](https://evantopo.com/).
