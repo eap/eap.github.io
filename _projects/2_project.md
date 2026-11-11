@@ -9,9 +9,11 @@ giscus_comments: true
 related_publications: false
 ---
 
-EvanTopo makes detailed topo maps for hikers, built on open data and priced to stay
-affordable. Every trail, trailhead and map layer it has is out in the open for you to
-see, on a clean, fast map with no ads.
+After a somewhat dangerous hike with my brother where I ended up on an unofficial
+unmaintained trail, I went looking for a better map and mostly found frustration. The
+expensive hiking apps were obviously scraped from OpenStreetMap, but seemed shy about
+that fact and wouldn't let you dig into a trail segment to see where it came from. I
+wanted a map that shows all of its data, so I built [EvanTopo](https://evantopo.com/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,8 +27,8 @@ see, on a clean, fast map with no ads.
     A route drawn from the Chautauqua Trailhead, and the Flatirons in 3D with aerial imagery.
 </div>
 
-After a somewhat dangerous hike with my brother where I ended up on an unofficial
-unmaintained trail, I thought I could do better, and build a map that shows all the
-data and is genuinely cheap, or free for casual users. EvanTopo is that map.
+It is also an experiment in highly agentic coding. Can I build something in my spare
+time, on the side, that by all means should take several years of old-school effort?
 
-The map is at [evantopo.com](https://evantopo.com/).
+And can I do better than the alternatives? No reverse engineering, just making
+something that is actually the better choice.
